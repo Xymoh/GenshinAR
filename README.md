@@ -8,7 +8,7 @@ Mobile app using AR for displaying and using Genshin models with animations
 The software works only on Android devices and may work on PC with a camera.
 
 - First we need to target a plane ground for our camera and then tap the screen whenever the square indicator pops
-![](https://user-images.githubusercontent.com/49035865/144503418-ca0bddbb-949e-48a6-97b6-aa455530b16e.jpg)
+![](https://user-images.githubusercontent.com/49035865/144503581-938dc246-b38b-464a-ab9d-c0c369a839be.jpg)
 
 ## External libraries and models:
 
