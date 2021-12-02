@@ -8,11 +8,11 @@ Mobile app using AR for displaying and using Genshin models with animations
 The software works only on Android devices and may work on PC with a camera.
 
 - First we need to target a plane ground for our camera and then tap the screen whenever the square indicator pops
-![](https://user-images.githubusercontent.com/49035865/144503581-938dc246-b38b-464a-ab9d-c0c369a839be.jpg)
+- ![](https://user-images.githubusercontent.com/49035865/144503581-938dc246-b38b-464a-ab9d-c0c369a839be.jpg)
 - Next after setting the ground plane choose the character you want to display
-![](https://user-images.githubusercontent.com/49035865/144504677-9a39e199-107a-4429-abb7-3e60cc456ac6.jpg)
+- ![](https://user-images.githubusercontent.com/49035865/144504677-9a39e199-107a-4429-abb7-3e60cc456ac6.jpg)
 - Now when the character is displayed you can freely rotate it and scale it within basic smarthphone gestures (sliding left and right and pinching it). To play the animations simply press one of the buttons and if you want to stop it or activate the next one you need to press Stop button which gonna reset our character position and rotation
-![](https://user-images.githubusercontent.com/49035865/144504362-f5a67862-679f-4f14-a3d3-1ed6907abc60.jpg)
+- ![](https://user-images.githubusercontent.com/49035865/144504362-f5a67862-679f-4f14-a3d3-1ed6907abc60.jpg)
 
 ## External libraries and models:
 
