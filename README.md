@@ -45,5 +45,3 @@ into .fbx format. Thank you so much for these golden masterwork!*
 - Adding new models
 - New Animations
 - Aspect of gamification (levels, currency, unlockables)
-
-Initially it was supposed to be a birthday gift, but unfortunately the person for who this app was made has a smartphone without AR support. [*]
